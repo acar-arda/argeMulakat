@@ -1,0 +1,14 @@
+/workspaces/argeMulakat/bin/Debug/net8.0/argeMulakat
+/workspaces/argeMulakat/bin/Debug/net8.0/argeMulakat.deps.json
+/workspaces/argeMulakat/bin/Debug/net8.0/argeMulakat.runtimeconfig.json
+/workspaces/argeMulakat/bin/Debug/net8.0/argeMulakat.dll
+/workspaces/argeMulakat/bin/Debug/net8.0/argeMulakat.pdb
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.AssemblyInfoInputs.cache
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.AssemblyInfo.cs
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.csproj.CoreCompileInputs.cache
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.dll
+/workspaces/argeMulakat/obj/Debug/net8.0/refint/argeMulakat.dll
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.pdb
+/workspaces/argeMulakat/obj/Debug/net8.0/argeMulakat.genruntimeconfig.cache
+/workspaces/argeMulakat/obj/Debug/net8.0/ref/argeMulakat.dll
